@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: #202124;
+}
+
+.p_tag {
+    position: absolute;
+    font-size: 30px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 5px;
+    font-family: Cascadia Mono;
+    margin-top: -60px;
+    cursor: text;
+}
+
+.btn_div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50vh;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 25px;
+    font-family: Cascaida Mono;
+    border: none;
+    border-radius: 30px;
+    background: white;
+    color: black;
+}
